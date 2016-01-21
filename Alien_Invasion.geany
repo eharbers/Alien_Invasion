@@ -15,6 +15,7 @@ indent_mode=2
 [project]
 name=Alien_Invasion
 base_path=/home/pi/alien_invasion
+description=
 
 [long line marker]
 long_line_behaviour=1
@@ -22,8 +23,6 @@ long_line_column=79
 
 [files]
 current_page=0
-FILE_NAME_0=706;Python;0;16;0;1;0;%2Fhome%2Fpi%2Falien_invasion%2Falien_invasion.py;0;4
-FILE_NAME_1=275;Python;0;16;0;1;0;%2Fhome%2Fpi%2Falien_invasion%2Fsettings.py;0;4
 
 [VTE]
-last_dir=/home/pi
+last_dir=/home
